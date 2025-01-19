@@ -1,4 +1,4 @@
-package com.problem.solving.questions;
+package com.problem.solving.questions.upstop;
 
 import java.util.ArrayList;
 import java.util.Scanner;
